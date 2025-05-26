@@ -8,10 +8,10 @@ function Footer() {
     <div className='footer-container'>
       <section className='footer-subscription'>
         <p className='footer-subscription-heading'>
-          Join the Adventure newsletter to receive our best vacation deals
+          KISS ME
         </p>
         <p className='footer-subscription-text'>
-          You can unsubscribe at any time.
+          YOU CAN NOT unsubscribe from my love at any time
         </p>
         <div className='input-areas'>
           <form>
@@ -21,20 +21,12 @@ function Footer() {
               type='email'
               placeholder='Your Email'
             />
-            <Button buttonStyle='btn--outline'>Subscribe</Button>
+            <Button buttonStyle='btn--outline'>click for a kiss</Button>
           </form>
         </div>
       </section>
       <div class='footer-links'>
         <div className='footer-link-wrapper'>
-          <div class='footer-link-items'>
-            <h2>About Us</h2>
-            <Link to='/sign-up'>How it works</Link>
-            <Link to='/'>Testimonials</Link>
-            <Link to='/'>Careers</Link>
-            <Link to='/'>Investors</Link>
-            <Link to='/'>Terms of Service</Link>
-          </div>
           <div class='footer-link-items'>
             <h2>Contact Us</h2>
             <Link to='/'>Contact</Link>
@@ -45,18 +37,18 @@ function Footer() {
         </div>
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
-            <h2>Videos</h2>
-            <Link to='/'>Submit Video</Link>
-            <Link to='/'>Ambassadors</Link>
-            <Link to='/'>Agency</Link>
-            <Link to='/'>Influencer</Link>
+            <h2>KISSY</h2>
+            <Link to='/'>Yug</Link>
+            <Link to='/'>LOVES</Link>
+            <Link to='/'>ONLY</Link>
+            <Link to='/'>YOU</Link>
           </div>
           <div class='footer-link-items'>
-            <h2>Social Media</h2>
-            <Link to='/'>Instagram</Link>
-            <Link to='/'>Facebook</Link>
-            <Link to='/'>Youtube</Link>
-            <Link to='/'>Twitter</Link>
+            <h2>HUG</h2>
+            <Link to='/'>HE VALUES</Link>
+            <Link to='/'>YOUR OPINION</Link>
+            <Link to='/'>AND IS SORRY</Link>
+            <Link to='/'>HE EXPRESSED IT SHITTY</Link>
           </div>
         </div>
       </div>
@@ -64,11 +56,11 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
-              TRVL
+              YJ CORP
               <i class='fab fa-typo3' />
             </Link>
           </div>
-          <small class='website-rights'>TRVL © 2020</small>
+          <small class='website-rights'>YJ CORP @ 2024</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'

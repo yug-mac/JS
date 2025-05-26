@@ -6,25 +6,19 @@ import './HeroSection.css';
 function HeroSection() {
   return (
     <div className='hero-container'>
-      <video src='/videos/video-1.mp4' autoPlay loop muted />
-      <h1>ADVENTURE AWAITS</h1>
-      <p>What are you waiting for?</p>
+      <video src='/videos/ussu.mp4' autoPlay loop muted />
+      <h1>MY LOVE FOR YOU IS ENDLESS</h1>
+      <p>Sometimes I make bad decisions AND I'm sorry</p>
+      <p>So heres a site, dedicated to my love</p>
       <div className='hero-btns'>
         <Button
           className='btns'
           buttonStyle='btn--outline'
           buttonSize='btn--large'
         >
-          GET STARTED
+          CLICK ME
         </Button>
-        <Button
-          className='btns'
-          buttonStyle='btn--primary'
-          buttonSize='btn--large'
-          onClick={console.log('hey')}
-        >
-          WATCH TRAILER <i className='far fa-play-circle' />
-        </Button>
+
       </div>
     </div>
   );
