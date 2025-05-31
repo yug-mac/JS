@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yug-mac/JS/static/css/main.1ca41e9e.chunk.css",
+    "main.js": "/yug-mac/JS/static/js/main.f5db7cfb.chunk.js",
+    "main.js.map": "/yug-mac/JS/static/js/main.f5db7cfb.chunk.js.map",
+    "runtime-main.js": "/yug-mac/JS/static/js/runtime-main.3efdc31c.js",
+    "runtime-main.js.map": "/yug-mac/JS/static/js/runtime-main.3efdc31c.js.map",
+    "static/js/2.b0e900c2.chunk.js": "/yug-mac/JS/static/js/2.b0e900c2.chunk.js",
+    "static/js/2.b0e900c2.chunk.js.map": "/yug-mac/JS/static/js/2.b0e900c2.chunk.js.map",
+    "index.html": "/yug-mac/JS/index.html",
+    "precache-manifest.a7fc0f43185476a3158f65a9a2445e6c.js": "/yug-mac/JS/precache-manifest.a7fc0f43185476a3158f65a9a2445e6c.js",
+    "service-worker.js": "/yug-mac/JS/service-worker.js",
+    "static/css/main.1ca41e9e.chunk.css.map": "/yug-mac/JS/static/css/main.1ca41e9e.chunk.css.map",
+    "static/js/2.b0e900c2.chunk.js.LICENSE.txt": "/yug-mac/JS/static/js/2.b0e900c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3efdc31c.js",
+    "static/js/2.b0e900c2.chunk.js",
+    "static/css/main.1ca41e9e.chunk.css",
+    "static/js/main.f5db7cfb.chunk.js"
+  ]
+}

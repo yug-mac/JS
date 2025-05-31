@@ -7,9 +7,9 @@ function HeroSection() {
   return (
     <div className='hero-container'>
       <video src='/videos/ussu.mp4' autoPlay loop muted />
-      <h1>MY LOVE FOR YOU IS ENDLESS</h1>
-      <p>Sometimes I make bad decisions AND I'm sorry</p>
-      <p>So heres a site, dedicated to my love</p>
+      <h1>HAPPY 10 MONTHS MY LOVE</h1>
+      <p>I LOVE YOU SO MUCH</p>
+      <p>HAPPY 10 SHAWTY</p>
       <div className='hero-btns'>
         <Button
           className='btns'
